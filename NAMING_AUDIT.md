@@ -1,8 +1,3 @@
-
-**Day 2: Naming Inconsistency Audit**
-
-Create `NAMING_AUDIT.md` to track issues found:
-
 # Naming Inconsistencies Found
 
 ## Issue 1: Content vs Post
