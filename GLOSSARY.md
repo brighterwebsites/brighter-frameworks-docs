@@ -7,11 +7,24 @@ Canonical terminology reference
 - **Definition:** Category of software that operationalizes content strategy frameworks
 - **Type:** Software category (like "CMS" or "CRM")
 - **Not:** A brand name
-- **Related:** Site Essentials (the actual product implementation)
+- **Related:** CAOS (the actual product implementation)
+
+### CAOS (Content Architecure OS)
+- **Definition:** The End to End Brighter Websites Full SCOC Software System - WordPress (MU) plugin, all modules, future MCP and external tools and system used to implement the frameworks and methods. 
+- **Type:** Productised System Name
+- **Namespace:** `CAOS\`
+- **Status:** Possible Idea (marketing brand TBD)
+
+### UnnamedItem1
+- **Definition:** The Full Scope WordPress (MU) plugin
+- **Type:** Product Name
+- **Namespace:** `CAOS\`
+- **Status:** Possible Idea (marketing brand TBD)
+- **Related:** Site Essentials (module implementation)
 
 ### Site Essentials
-- **Definition:** The WordPress MU plugin that implements SCOS principles
-- **Type:** Product name
+- **Definition:** The WordPress MU plugin basic module (likely non content related modules)
+- **Type:** Product Module name
 - **Namespace:** `SiteEssentials\`
 - **Status:** Working name (marketing brand TBD)
 
@@ -53,6 +66,13 @@ Canonical terminology reference
 - **Type:** Content classification framework
 - **Part of:** ALTC Framework
 
+### Amplification Loop
+- **Definition:** Website content-distribution method Amplifies authority throuh to external channels. Built using ALTC, CAR, Anchors, and Proof Library. returns authority back to the website, causing compounding visibility, trust, (and technial resilience)
+- **Type:** Cross-Framework Conceptual Model 
+- **Related:** UnnamedItem1 (Social Amplification loop module in early dev)
+- **Status:** Needs format specification
+
+
 ### LLM.txt
 - **Definition:** Site-level file declaring authority and providing AI context
 - **Location:** `/llm.txt` (site root)
@@ -89,4 +109,3 @@ Canonical terminology reference
 **Decision:** Content Architecture Record (not "Post Architecture Record")
 **Reason:** Can apply to pages, CPTs, not just posts
 **Updated:** TBD
-
