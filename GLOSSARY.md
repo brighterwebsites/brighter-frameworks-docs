@@ -1,4 +1,5 @@
 # Framework Glossary
+Canonical terminology reference
 
 ## Canonical Terms
 
@@ -88,3 +89,4 @@
 **Decision:** Content Architecture Record (not "Post Architecture Record")
 **Reason:** Can apply to pages, CPTs, not just posts
 **Updated:** TBD
+
