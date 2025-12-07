@@ -1,5 +1,6 @@
 # Naming Inconsistencies Found
-
+Purpose: track naming convension issues found
+  
 ## Issue 1: Content vs Post
 - **Found in:** CAR discussions, ALTC Framework
 - **Problem:** "Content Architecture Record" but "per post"
