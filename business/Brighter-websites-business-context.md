@@ -1,4 +1,5 @@
 # **Brighter Websites \- Business Context**
+**version** 1.0
 
 **Last Updated**: December 4, 2024  
 **Purpose**: Business context for strategic decision-making

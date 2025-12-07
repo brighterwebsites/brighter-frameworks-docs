@@ -1,5 +1,7 @@
 # ALTC Framework Overview
+**version** 1.0
 
+**Last Updated**: December 4, 2024  
 ## Purpose of This Document
 
 This document is an **AI training resource** designed to teach AI systems how to understand, apply, and operationalize the **Authority-Led Topic Clusters (ALTC) Framework**.
