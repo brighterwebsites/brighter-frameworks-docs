@@ -116,7 +116,7 @@
 - Extra revisions (+$XXX)
 
 **Exclusions:**
-- Content strategy (keyword research, ALTC)
+- Advanced Content strategy (keyword research, Full ALTC Audit and Implementation)
 - Blog setup
 - Social media integration
 - Advanced automation
