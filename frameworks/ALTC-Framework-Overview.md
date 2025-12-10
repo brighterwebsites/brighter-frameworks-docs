@@ -171,7 +171,7 @@ ALTC is fundamentally **three-dimensional**. Every piece of content exists at th
 | **5. Local & Community Authority** | Demonstrates geographic and community trust | Regional case studies, local client testimonials, community involvement |
 | **6. Results-in-Advance** | Proves helpfulness before purchase | Downloadable tools, calculators, comprehensive guides, free audits |
 | **7. Core Service Areas** | Represents commercial endpoints | The product/service content ecosystem leads toward |
-| **8. Technical Excellence** | Embodies execution standard | Site speed, schema, accessibility, CRO at site-wide and page level |
+| **8. Technology Infrastructure Excellence** | Embodies execution standard | Site speed, schema, accessibility, CRO at site-wide and page level |
 
 **Anchors 7 & 8 are underpinning anchors** — they're not content types but foundational principles ensuring commercial alignment (7) and technical performance (8).
 
@@ -198,7 +198,7 @@ WFB is the operational philosophy that positions the website as the central engi
 |--------|-------------|--------------|
 | **Scope** | Full digital infrastructure | Content strategy only |
 | **Question** | "How does the entire ecosystem work?" | "What content positions us as THE authority?" |
-| **Technical** | Site speed, hosting, security (Pillar 1) | Technical content to prove expertise (Anchor 8) |
+| **Technical** | Site speed, hosting, security (Pillar 1) | Technical content to prove expertise (Anchor 8: Technology Infrastructure Excellence) |
 | **Conversion** | CRO, UX, forms, CTAs (Pillar 2) | Proof content driving conversion (Anchor 3) |
 | **Content** | Distribution systems (Pillar 4) | Strategic topic selection (Pillar 3) |
 | **Timeline** | Constraint-based (what you can do now) | Maturity-based (Entry → Expert progression) |

@@ -58,13 +58,23 @@ Canonical terminology reference
 - **Definition:** Centralized repository of atomic, verifiable claims with temporal tracking
 - **Storage:** Custom table
 - **Format:** Structured data (claims + evidence + timestamps)
-- **Status:** Needs specification ⭐ START HERE
+- **Status:** Version 1.0 complete
 
 ### Authority Anchors
 - **Definition:** The 8 mechanisms that prove expertise (Trust & Proof, Process & Education, etc.)
 - **Count:** 8 anchors
 - **Type:** Content classification framework
 - **Part of:** ALTC Framework
+- **Status:** Needs specification
+
+
+### Authority Anchor 8 - Technology Infrastructure Excellence
+- **Definition:** Website/platform execution quality - site speed, schema markup, accessibility, CRO implementation at site-wide and page level
+- **Type:** ALTC Authority Anchor (underpinning anchor) 
+- **Related:** WFB Pillar 1 (Technical Foundations), ALTC Framework
+- **Note:** NOT product/service delivery excellence - specifically refers to marketing technology infrastructure
+- **Status:** Naming clarified Dec 2025
+
 
 ### Amplification Loop
 - **Definition:** Website content-distribution method Amplifies authority throuh to external channels. Built using ALTC, CAR, Anchors, and Proof Library. returns authority back to the website, causing compounding visibility, trust, (and technial resilience)
@@ -78,34 +88,3 @@ Canonical terminology reference
 - **Location:** `/llm.txt` (site root)
 - **Standard:** Emerging (like robots.txt)
 - **Status:** Needs format specification
-
-## Naming Conventions
-
-### Code
-- PHP Namespace: `SiteEssentials\`
-- Class names: `PascalCase`
-- Functions: `snake_case`
-- Constants: `SCREAMING_SNAKE_CASE`
-
-### Documentation
-- Framework names: Title Case (ALTC Framework)
-- Acronyms: ALL CAPS (CAR, CAM, SCOS)
-- File names: kebab-case with extension (.md)
-
-### Database
-- Tables: `wp_prefix_se_` (e.g., `wp_se_proof_library`)
-- Options: `site_essentials_` prefix
-- Post meta: `_se_` prefix
-- Transients: `se_` prefix
-
-## Decision Log
-
-### [Date] - SCOS vs Site Essentials
-**Decision:** SCOS = category, Site Essentials = product
-**Reason:** Allows for category creation separate from brand
-**Updated:** Business context docs, README files
-
-### [Date] - CAR naming
-**Decision:** Content Architecture Record (not "Post Architecture Record")
-**Reason:** Can apply to pages, CPTs, not just posts
-**Updated:** TBD

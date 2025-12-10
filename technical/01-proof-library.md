@@ -227,8 +227,9 @@ CAOS (Content Architecture Operating System)
   
   "proof_type": "case_study",
   // case_study | testimonial | data | certification | methodology |
-  // award | publication | media_mention | partnership | metric
+  // award | publication | media_mention | partnership | metric | ugc
   // Categorizes the type of proof
+  // ugc = User-Generated Content (reviews, social mentions, unsolicited testimonials)
   
   // ═══════════════════════════════════════════════════════════
   // AUTHORITY ANCHORS
@@ -1068,6 +1069,7 @@ Docker Container
 | **metric** | Single KPI achievement (e.g., "80% AI voice share") | Experience | Medium-High |
 | **tutorial** | How-to guide proving expertise | Experience | Low-Medium |
 | **tool** | Free tool/calculator proving helpfulness | Experience | Medium |
+| **ugc** | User-Generated Content: Reviews, social mentions, unsolicited testimonials, articles written about you by others | Trustworthiness | Medium-High |
 
 ---
 

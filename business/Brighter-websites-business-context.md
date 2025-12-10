@@ -10,19 +10,30 @@
 
 ### **Services (Three-Tier Structure)**
 
-**Launch Fast** (Entry Tier)
-
+**Launch** Launch Fast (Entry Offer)
+- Launce naming replaces starter or startup
 - Get online quickly with AI-ready foundation  
-- Core website infrastructure  
-- Basic SEO and analytics  
+- Content(ALTC Fastrack/Basic Service Mapping)
+- CRO best practices and website infrastructure/tech  
+- Basic SEO and analytics
+
 - Target: Businesses needing online presence fast
 
-**Grow Visibility** (Growth Tier)
+WFB Pillars: Foundation/Basic Level of pillars 1, 2, and 3.  
+- Enablement/Entry Level Pillar 4 (ie social/email account setup/profile level optimisation, but not a structured posting/engagement campaign. eg/Email account setup,can collect email subscribers, no active email campaigns ) 
+
+
+**Grow** Grow Visibility and Grow Conversion (Growth Tier)
 
 - ALTC implementation  
 - Strategic content development  
 - Enhanced analytics and optimization  
 - Target: Businesses ready for content strategy
+
+WFB Pillars: 1, 2, 3, and 4 - usually with a Primary Focus on either 1)Serach Visibility or 2) Conversion
+- Grow Visibility/Conversion Cycles may iterate a few times
+- Pillar 4 (aplification) becomes more structured and stratigic in its implementation 
+- Pillar 5 (Compounding) starts/is enabled but not yet in a structured/systematic manner
 
 **Scale Smarter** (Premium Tier)
 
@@ -31,6 +42,10 @@
 - Custom development  
 - Strategic consulting  
 - Target: Businesses scaling operations
+
+WFB Pillars: Pillar 5 Compounding is the primary focus 
+- Pillars 1-4 are combined, paired or singled out for sprints, to fine tune deficits and 'ramp up' successful strategies/campaigns  
+- strategic/strucutred iterations based on data driven recomendations
 
 ### **Target Market**
 
@@ -61,9 +76,11 @@
 
 **Development Status**:
 
-- SCOS refactor in progress (modular architecture)  
+- SCOS - Software Category (Concept defined)
+- Software - refactor in progress (modular architecture)  
 - ALTC implementation on own site (content restructuring)  
-- Framework documentation complete  
+- Frameworks - documentation exists, gaps identified - in progress (3rd iteration)
+- Technical Specification for Software - in progress (1st formal: Framework to tech specification)   
 - White paper planning stage
 
 **Runway**: Comfortable \- can focus on strategic work vs survival mode
@@ -128,7 +145,7 @@ This single question replaces 20-40 hours of keyword research and creates strate
 
 - ALTC Framework (proprietary methodology)  
 - WFB Blueprint (constraint-based implementation)  
-- SCOS Plugin (operational infrastructure)
+- Software & Plugin (operational infrastructure)
 
 **Proof over promises**:
 
@@ -154,20 +171,29 @@ This single question replaces 20-40 hours of keyword research and creates strate
 **What competitors can't easily copy**:
 
 1. **ALTC Framework** \- Proprietary methodology with proven results  
-2. **SCOS Plugin** \- Operational infrastructure (4-layer architecture)  
+2. **SCOS System - Custom Tools/Software ** \- Operational infrastructure (4-layer architecture)  
 3. **Early validation** \- Neil Patel/Exposure Ninja arrived at same conclusions independently (proof of correctness)  
 4. **Real proof** \- September 2024 algorithm survival when 77% failed  
 5. **Integrated approach** \- Framework \+ methodology \+ tool \+ implementation (not just advice)
 
 ### **Voice Gaps We Own**
 
-**What we say that others don't**:
+**What we said in early 2025 that others didnt**:
 
 - "Keywords are dead" (positioning first, keywords validate)  
 - "SEO tools should be free" (FREE SEO module in SCOS)  
 - "AI search is replacing traditional search" (not supplementing)  
 - "Regional businesses need different strategy than enterprise"  
 - "Constraint-based implementation" (not ideal roadmap)
+- "Start with what you want to be known for, then find topical themes where voice gaps exist" (replacing Keywords first)
+- "Atomic Proof Library as single source of verifiable claims for AI verifiable trust assets"(not just words on the page)
+- "LLMS.txt is Primative - Needs Site and Page Level directives like GPT Instructions and knowledge documents, enrich existing schema/json to accomplish this" 
+
+**What others are starting to say** (as of Late 2025):
+- "Keywords are dead" (positioning first, keywords validate)  
+- "AI search is replacing traditional search" (not supplementing)  
+- "Start with what you want to be known for"(replacing Keyword first)
+
 
 ---
 

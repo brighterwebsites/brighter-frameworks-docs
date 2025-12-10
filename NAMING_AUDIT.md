@@ -13,5 +13,9 @@ Purpose: track naming convension issues found
 - **Resolution:** TBD
 - **Affects:** All marketing materials, code namespace
 
-## Issue 3: [List others as you find them]
-
+## Issue 3: ALTC Anchor 8  Technical Excellence (website execution quality) ✅ RESOLVED
+- **Found in:** ALTC & Many places
+- **Problem:** Confusion between Technical Excellence/Execution of product or service delivery. Refers to marketing technology/website execution quality ie Site speed, schema, accessibility
+- **Resolution:**  "Technology Infrastructure Excellence" (website/platform execution quality)
+- **Affects:** All marketing materials
+- **Updated:** Dec 8, 2025 - Changed across GLOSSARY, ALTC-Framework-Overview, WFB-Blueprint-Overview 

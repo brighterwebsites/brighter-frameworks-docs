@@ -22,7 +22,7 @@ WFB operates on constraints, not phases. You implement what the business can sup
 **Includes**: Site speed, Core Web Vitals, schema markup, mobile optimization, security, accessibility, **technical SEO** (crawlability, indexability, structured data)  
 **Why First**: No other pillar works if the site is slow, broken, or can't be crawled  
 **SEO Focus**: Technical SEO forms the foundation - search engines must be able to access, crawl, and understand your site  
-**ALTC Connection**: This enables Authority Anchor 8 (Technical Excellence)  
+**ALTC Connection**: This enables Authority Anchor 8 (Technology Infrastructure Excellence)  
 **Philosophy**: SEO tools should be native to WordPress, not expensive add-ons
 
 ### Pillar 2: Conversion Infrastructure (On-Page SEO + CRO)
@@ -84,7 +84,7 @@ Website-First Blueprint (METHODOLOGY)
 |--------|-------------|--------------|
 | **Scope** | Full digital infrastructure | Content strategy only |
 | **Question** | "How does the entire ecosystem work?" | "What content positions us as THE authority?" |
-| **Technical** | Site speed, hosting, security (Pillar 1) | Technical content to prove expertise (Anchor 8) |
+| **Technical** | Site speed, hosting, security (Pillar 1) | Technical content to prove expertise (Anchor 8: Technology Infrastructure Excellence) |
 | **Conversion** | CRO, UX, forms, CTAs (Pillar 2) | Proof content driving conversion (Anchor 3) |
 | **Content** | Distribution systems (Pillar 4) | Strategic topic selection (Pillar 3) |
 | **Timeline** | Constraint-based (what you can do now) | Maturity-based (Entry → Expert progression) |
